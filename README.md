@@ -57,7 +57,7 @@ Please feel free to contact me below!
 
 ## Contact
 👤 [LinkedIn](www.linkedin.com/in/rachael-johnson-61637a210)
-📧 Email: rlynjohnson6@gmail.com
+📧 Email: rachael.johnson@tufts.edu
 
 
 

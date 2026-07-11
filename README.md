@@ -12,7 +12,7 @@ Hello! My name is Rachael Johnson and welcome to my data portfolio. I am an inte
 
 - Python `scikit-learn` machine learning:
 
-    - [NASA Bright Stars Catalog Machine Learning Spectral Classification]()
+    - [NASA Bright Stars Catalog Machine Learning Spectral Classification](https://github.com/rjohns116/NASA_Bright_Stars_Catalogue-Supervised_Machine_Learning_Spectral_Classifcation)
         - Training and evaluation of a decision tree model that classifies stars by spectral type 
 
 - Python simulations/apps:

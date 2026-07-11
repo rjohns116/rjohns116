@@ -1,17 +1,21 @@
-Hello! My name is Rachael Johnson and welcome to my data portfolio. I am an interdisciplinary psychology and media researcher using data to create better platforms, products, services, content, and user experiences.
+Hello! My name is Rachael Johnson and welcome to my data portfolio. I am an interdisciplinary psychology and media researcher using empirical data to design, run and interpret experimental studies that inform better platforms, services and user experiences.
 
 
 ## All Projects:
 
-- Data cleaning and analysis:
-    - Canadian audience measurement
-    - Cognitive Conflict and Reward
+
+- Python real-world data cleaning and analysis:
+    - [Canadian Traditional Media Audience Measurement](https://github.com/rjohns116/Canadian_Traditional_Media_Audience_Measurement)
+      - An exploratory data analysis of current English and French language media consumption patterns in Canada.
     - [NYC OpenData - Synthetic Turf Field Exploration and Analysis](https://github.com/rjohns116/NYC-OpenData-Synthetic-Turf-Fields-Exploration-and-Analysis)
       - A public health analysis to understand quality and availability of synthetic turf fields in NYC.
-   
-    
 
-- Simluations/apps:
+- Python `scikit-learn` machine learning:
+
+    - [NASA Bright Stars Catalog Machine Learning Spectral Classification]()
+        - Training and evaluation of a decision tree model that classifies stars by spectral type 
+
+- Python simulations/apps:
     - [Santa Tracker - CS50 Final Project](https://github.com/rjohns116/CS50-Final-Project_Santa-Tracker)
        - Command-line interface version of the popular Santa Tracker simulation game
 
@@ -38,19 +42,16 @@ Image 1: A sample of data analyzed in the [Canadian Traditional Media Audience M
 
 In the media world, understanding user data is fundamental to understanding products, platforms and services. 
 - 📈 Users create **trends**, help shape which content gets created and define what is considered popular. 
-- ♻️ At the same time, companies collect data in order to better understand user **demographics, product usage,** and **social impact**. 
+- ♻️ At the same time, companies collect data in order to better understand user characteristics like **demographics, product usage,** and **personal preferences**. 
 
-Technology develops quickly - scientific research and data science must keep investigating its impact to support a **healthy and ethical relationship** between media, tech and users.
+Technology develops quickly - scientific research and data science must keep investigating its impact to support a **healthy and ethical relationship** between media, tech and consumers.
 
 ### How can psychology research help us better understand media and technology?
 I see a growing need in the industry for **applied psychology** - using behavioral science to understand how people engage with technology. The media industry relies heavily on understanding how people think about, use and interact with products and content through data. By conducting research, scientists can visualize and interpret the **health** or **behavioral** implications of certain content, products, platforms or services.
 
-#example visualization from Cognitive Conflict and Reward project
-
-
 Psychology and neuroscience research can also help media professionals better understand how human brains are affected by an ever-present influence of media and technology and how it shapes our social and emotional understanding of the world.
 
-### I hope to use my data analysis background, stemming from psychology lab experience and independent courses, in a *people-oriented, customer-focused* space in the future to create better services, products and outcomes for human well-being.
+### I hope to combine my background in scientific research with a passion for the media industry in a *people-oriented, customer-focused* space to conduct empirical studies that help create better services, products and outcomes for human well-being.
 
 Please feel free to contact me below!
 

@@ -51,7 +51,7 @@ I see a growing need in the industry for **applied psychology** - using behavior
 
 Psychology and neuroscience research can also help media professionals better understand how human brains are affected by an ever-present influence of media and technology and how it shapes our social and emotional understanding of the world.
 
-### I hope to combine my background in scientific research with a passion for the media industry in a *people-oriented, customer-focused* space to conduct empirical studies that help create better services, products and outcomes for human well-being.
+### I aim to combine my background in scientific research with a passion for the media industry in a *people-oriented, customer-focused* space to conduct empirical studies that help create better services, products and outcomes for human well-being.
 
 Please feel free to contact me below!
 

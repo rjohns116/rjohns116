@@ -1,8 +1,12 @@
-Hello! My name is Rachael Johnson and welcome to my data portfolio. I am a behavioral scientist and cognitive psychology researcher using data and computational methods to design, run and interpret experimental studies that inform better digital platforms, services and user experiences.
+Hello! My name is Rachael Johnson and welcome to my data portfolio. I am a Biopsychology and Film and Media Studies student at Tufts University interested in behavioral science, human-computer interaction and data analytics. I use statistical and computational methods to investigate how people interact with media and technology with the goal of informing more accessible, healthy, and user-centered digital products.
 
+## Technical skills:
+- **Programming** (Python, R, SQL)
+- **Data analysis** (numpy, pandas, scikit-learn, Excel)
+- **Statistics** (Experimental design, hypothesis testing, regression)
+- **Data visualization** (Matplotlib, Seaborn, Excel, Tableau)
 
 ## All Projects:
-
 
 - Python real-world data cleaning and analysis:
     - [Canadian Traditional Media Audience Measurement](https://github.com/rjohns116/Canadian_Traditional_Media_Audience_Measurement)
@@ -13,11 +17,11 @@ Hello! My name is Rachael Johnson and welcome to my data portfolio. I am a behav
 - Python `scikit-learn` machine learning:
 
     - [NASA Bright Stars Catalog Machine Learning Spectral Classification](https://github.com/rjohns116/NASA_Bright_Stars_Catalogue-Supervised_Machine_Learning_Spectral_Classifcation)
-        - Training and evaluation of a decision tree model that classifies stars by spectral type 
+        - Training and evaluation of a decision tree model that classifies stars by spectral type using astronomical properties.
 
 - Python simulations/apps:
     - [Santa Tracker - CS50 Final Project](https://github.com/rjohns116/CS50-Final-Project_Santa-Tracker)
-       - Command-line interface version of the popular Santa Tracker simulation game
+       - Command-line interface version of the popular Santa Tracker simulation game.
 
 
 ## Education
@@ -35,7 +39,7 @@ The entertainment, media and user-centered tech industries rely heavily on under
 
 By conducting experiments and running studies, scientists can visualize and interpret the **health** or **behavioral** implications of certain content, products, platforms or services. Psychology and neuroscience research can also help digital tech professionals better understand how human brains are affected by an ever-present influence of content and media and how it shapes our social and emotional understanding of the world.
 
-### I aim to combine my background in **biopsychology** with a strong foundation in **data science and analytics** to conduct scientific research that informs better **products, services and user experiences.** By investigating human-computer interaction and media technology with **cognitive and behavioral science**, my goal is to help design digital technology that promotes **accessibility, health and well-being.**
+I aim to combine my background in **biopsychology** with a strong foundation in **data science and analytics** to conduct scientific research that informs better **products, services and user experiences.** By investigating human-computer interaction and media technology with cognitive and behavioral science, my goal is to help design digital technology that promotes **accessibility, health and well-being.**
 
 Please feel free to contact me below!
 

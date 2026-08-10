@@ -3,7 +3,7 @@ Hello! My name is Rachael Johnson and welcome to my data portfolio. I am a Biops
 ## Technical skills:
 - **Programming** (Python, R, SQL)
 - **Data analysis** (numpy, pandas, scikit-learn, Excel)
-- **Statistics** (Experimental design, hypothesis testing, regression)
+- **Statistics** (Experimental design, descriptive statistics, hypothesis testing, regression, model fitting)
 - **Data visualization** (Matplotlib, Seaborn, Excel, Tableau)
 
 ## All Projects:
@@ -44,7 +44,7 @@ I aim to combine my background in **biopsychology** with a strong foundation in 
 Please feel free to contact me below!
 
 ## Contact
-👤 [LinkedIn](www.linkedin.com/in/rachael-johnson-61637a210)
+👤 [LinkedIn](www.linkedin.com/in/rachael-johnson116)
 📧 Email: rachael.johnson@tufts.edu
 
 

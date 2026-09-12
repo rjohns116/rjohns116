@@ -1,11 +1,11 @@
-Hello! My name is Rachael Johnson and welcome to my data portfolio. I am a Biopsychology and Film and Media Studies student at Tufts University interested in behavioral science, human-computer interaction and data analytics. I use statistical and computational methods to investigate how people interact with media and technology with the goal of informing more accessible, healthy, and user-centered digital products.
+Hello! My name is Rachael Johnson and welcome to my data portfolio. I am a Biopsychology and Film and Media Studies student at Tufts University interested in health, behavioral science, human-computer interaction and data analytics. I use statistical and computational methods to investigate how people interact with technology and their environments with the goal of informing more accessible, healthy, and user-centered digital and public health systems.
 
 ## Technical skills:
 - **Programming** (Python, R, SQL)
 - **Data analysis** (numpy, pandas, scikit-learn, Excel)
 - **Statistics** (Experimental design, descriptive statistics, hypothesis testing, regression, model fitting)
 - **Data visualization** (Matplotlib, Seaborn, Excel, Tableau)
-- **Machine learning** feature engineering, train/test split, classification, regression, model evaluation
+- **Machine learning** (feature engineering, train/test splitting, classification, regression, model evaluation)
 
 ## All Projects:
 

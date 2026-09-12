@@ -5,6 +5,7 @@ Hello! My name is Rachael Johnson and welcome to my data portfolio. I am a Biops
 - **Data analysis** (numpy, pandas, scikit-learn, Excel)
 - **Statistics** (Experimental design, descriptive statistics, hypothesis testing, regression, model fitting)
 - **Data visualization** (Matplotlib, Seaborn, Excel, Tableau)
+- **Machine learning** feature engineering, train/test split, classification, regression, model evaluation
 
 ## All Projects:
 

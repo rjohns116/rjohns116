@@ -45,7 +45,7 @@ I aim to combine my background in **biopsychology** with a strong foundation in 
 Please feel free to contact me below!
 
 ## Contact
-👤 [LinkedIn](www.linkedin.com/in/rachael-johnson116)
+👤 [LinkedIn](https://www.linkedin.com/in/rachael-johnson116)
 📧 Email: rachael.johnson@tufts.edu
 
 
